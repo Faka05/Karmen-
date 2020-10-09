@@ -10,9 +10,9 @@
  <nav class="navegacion"
       <3>STILOS DE KA</h3>
      <ul class="nav-item">
-         <li><a href="PAGINA1.HTML">INICIO</a></li>
+         <li><a href="PAGINA1.html">INICIO</a></li>
          <li><a href="#prendas">PRENDAS</a></li>
-         <li><a href="PAGINA2.HTML">CONTACTOS</a></li>
+         <li><a href="PAGINA2.html">CONTACTOS</a></li>
      </ul>
    </nav>
 
